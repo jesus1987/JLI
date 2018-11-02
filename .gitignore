@@ -4,3 +4,11 @@ obj/
 *.suo
 *.cache
 
+*.dll
+*.pdb
+*.xml
+*.nupkg
+*.p7s
+*.props
+*.md
+*.txt
